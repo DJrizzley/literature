@@ -24,9 +24,9 @@ Language: English
 
 
 
-Middlemarch
+# Middlemarch
 
-George Eliot
+by George Eliot
 
 New York and Boston
 H. M. Caldwell Company Publishers
