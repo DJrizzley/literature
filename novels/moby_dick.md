@@ -189,7 +189,7 @@ was compared with a public domain hard copy version of the text.
 
 
 
-  ETYMOLOGY.
+# ETYMOLOGY
 
 
   (Supplied by a Late Consumptive Usher to a Grammar School.)
@@ -229,7 +229,7 @@ was compared with a public domain hard copy version of the text.
   PEHEE-NUEE-NUEE,   _Erromangoan_.
 
 
-  EXTRACTS. (Supplied by a Sub-Sub-Librarian).
+# EXTRACTS (Supplied by a Sub-Sub-Librarian)
 
 
 
@@ -697,7 +697,7 @@ EXTRACTS.
 
 
 
-CHAPTER 1. Loomings.
+# CHAPTER 1. Loomings
 
 Call me Ishmael. Some years ago—never mind how long precisely—having
 little or no money in my purse, and nothing particular to interest me
@@ -898,7 +898,7 @@ my inmost soul, endless processions of the whale, and, mid most of them
 all, one grand hooded phantom, like a snow hill in the air.
 
 
-CHAPTER 2. The Carpet-Bag.
+# CHAPTER 2. The Carpet-Bag
 
 I stuffed a shirt or two into my old carpet-bag, tucked it under my
 arm, and started for Cape Horn and the Pacific. Quitting the good city
@@ -1032,7 +1032,7 @@ is plenty of that yet to come. Let us scrape the ice from our frosted
 feet, and see what sort of a place this “Spouter” may be.
 
 
-CHAPTER 3. The Spouter-Inn.
+# CHAPTER 3. The Spouter-Inn
 
 Entering that gable-ended Spouter-Inn, you found yourself in a wide,
 low, straggling entry with old-fashioned wainscots, reminding one of
@@ -1602,9 +1602,9 @@ say—“I won’t touch a leg of ye.”
 I turned in, and never slept better in my life.
 
 
-CHAPTER 4. The Counterpane.
+# CHAPTER 4. The Counterpane
 
-Upon waking next morning about daylight, I found Queequeg’s arm thrown
+Upon waking next morning about daylight, I found Queequeg's arm thrown
 over me in the most loving and affectionate manner. You had almost
 thought I had been his wife. The counterpane was of patchwork, full of
 odd little parti-coloured squares and triangles; and this arm of his
@@ -1746,7 +1746,7 @@ the room, wrapped up in his great pilot monkey jacket, and sporting his
 harpoon like a marshal’s baton.
 
 
-CHAPTER 5. Breakfast.
+# CHAPTER 5. Breakfast
 
 I quickly followed suit, and descending into the bar-room accosted the
 grinning landlord very pleasantly. I cherished no malice towards him,
@@ -1824,7 +1824,7 @@ sitting there quietly digesting and smoking with his inseparable hat
 on, when I sallied out for a stroll.
 
 
-CHAPTER 6. The Street.
+# CHAPTER 6. The Street
 
 If I had been astonished at first catching a glimpse of so outlandish
 an individual as Queequeg circulating among the polite society of a
@@ -1909,7 +1909,7 @@ shore, as though they were drawing nigh the odorous Moluccas instead of
 the Puritanic sands.
 
 
-CHAPTER 7. The Chapel.
+# CHAPTER 7. The Chapel
 
 In this same New Bedford there stands a Whaleman’s Chapel, and few are
 the moody fishermen, shortly bound for the Indian Ocean or Pacific, who
@@ -2003,7 +2003,7 @@ not me. And therefore three cheers for Nantucket; and come a stove boat
 and stove body when they will, for stave my soul, Jove himself cannot.
 
 
-CHAPTER 8. The Pulpit.
+# CHAPTER 8. The Pulpit
 
 I had not been seated very long ere a man of a certain venerable
 robustness entered; immediately as the storm-pelted door flew back upon
@@ -2095,7 +2095,7 @@ Yes, the world’s a ship on its passage out, and not a voyage complete;
 and the pulpit is its prow.
 
 
-CHAPTER 9. The Sermon.
+# CHAPTER 9. The Sermon
 
 Father Mapple rose, and in a mild voice of unassuming authority ordered
 the scattered people to condense. “Starboard gangway, there! side away
@@ -2426,7 +2426,7 @@ his hands, and so remained kneeling, till all the people had departed,
 and he was left alone in the place.
 
 
-CHAPTER 10. A Bosom Friend.
+# CHAPTER 10. A Bosom Friend
 
 Returning to the Spouter-Inn from the Chapel, I found Queequeg there
 quite alone; he having left the Chapel before the benediction some
@@ -2568,7 +2568,7 @@ lie and chat over old times till nearly morning. Thus, then, in our
 hearts’ honeymoon, lay I and Queequeg—a cosy, loving pair.
 
 
-CHAPTER 11. Nightgown.
+# CHAPTER 11. Nightgown
 
 We had lain thus in bed, chatting and napping at short intervals, and
 Queequeg now and then affectionately throwing his brown tattooed legs
@@ -2632,7 +2632,7 @@ with his broken phraseology, now enable me to present the whole story
 such as it may prove in the mere skeleton I give.
 
 
-CHAPTER 12. Biographical.
+# CHAPTER 12. Biographical
 
 Queequeg was a native of Rokovoko, an island far away to the West and
 South. It is not down in any map; true places never are.
@@ -2718,7 +2718,7 @@ light, we rolled over from each other, this way and that, and very soon
 were sleeping.
 
 
-CHAPTER 13. Wheelbarrow.
+# CHAPTER 13. Wheelbarrow
 
 Next morning, Monday, after disposing of the embalmed head to a barber,
 for a block, I settled my own and comrade’s bill; using, however, my
@@ -2882,7 +2882,7 @@ himself—“It’s a mutual, joint-stock world, in all meridians. We
 cannibals must help these Christians.”
 
 
-CHAPTER 14. Nantucket.
+# CHAPTER 14. Nantucket
 
 Nothing more happened on the passage worthy the mentioning; so, after a
 fine run, we safely arrived in Nantucket.
@@ -2954,7 +2954,7 @@ of land, furls his sails, and lays him to his rest, while under his
 very pillow rush herds of walruses and whales.
 
 
-CHAPTER 15. Chowder.
+# CHAPTER 15. Chowder
 
 It was quite late in the evening when the little Moss came snugly to
 anchor, and Queequeg and I went ashore; so we could attend to no
@@ -3075,7 +3075,7 @@ for breakfast, men?”
 variety.”
 
 
-CHAPTER 16. The Ship.
+# CHAPTER 16. The Ship
 
 In bed we concocted our plans for the morrow. But to my surprise and no
 small concern, Queequeg now gave me to understand, that he had been
@@ -3636,7 +3636,7 @@ However, my thoughts were at length carried in other directions, so
 that for the present dark Ahab slipped my mind.
 
 
-CHAPTER 17. The Ramadan.
+# CHAPTER 17. The Ramadan
 
 As Queequeg’s Ramadan, or Fasting and Humiliation, was to continue all
 day, I did not choose to disturb him till towards night-fall; for I
@@ -3864,7 +3864,7 @@ make much profit by reason of his Ramadan, we sallied out to board the
 Pequod, sauntering along, and picking our teeth with halibut bones.
 
 
-CHAPTER 18. His Mark.
+# CHAPTER 18. His Mark
 
 As we were walking down the end of the wharf towards the ship, Queequeg
 carrying his harpoon, Captain Peleg in his gruff voice loudly hailed us
@@ -4016,7 +4016,7 @@ stooped to pick up a patch, or save an end of tarred twine, which
 otherwise might have been wasted.
 
 
-CHAPTER 19. The Prophet.
+# CHAPTER 19. The Prophet
 
 “Shipmates, have ye shipped in that ship?”
 
@@ -4165,7 +4165,7 @@ without seeming to notice us. This relieved me; and once more, and
 finally as it seemed to me, I pronounced him in my heart, a humbug.
 
 
-CHAPTER 20. All Astir.
+# CHAPTER 20. All Astir
 
 A day or two passed, and there was great activity aboard the Pequod.
 Not only were the old sails being mended, but new sails were coming on
@@ -4254,7 +4254,7 @@ certainly sail. So next morning, Queequeg and I took a very early
 start.
 
 
-CHAPTER 21. Going Aboard.
+# CHAPTER 21. Going Aboard
 
 It was nearly six o’clock, but only grey imperfect misty dawn, when we
 drew nigh the wharf.
@@ -4402,7 +4402,7 @@ last things on board. Meanwhile Captain Ahab remained invisibly
 enshrined within his cabin.
 
 
-CHAPTER 22. Merry Christmas.
+# CHAPTER 22. Merry Christmas
 
 At length, towards noon, upon the final dismissal of the ship’s
 riggers, and after the Pequod had been hauled out from the wharf, and
@@ -4571,7 +4571,7 @@ three heavy-hearted cheers, and blindly plunged like fate into the lone
 Atlantic.
 
 
-CHAPTER 23. The Lee Shore.
+# CHAPTER 23. The Lee Shore
 
 Some chapters back, one Bulkington was spoken of, a tall, newlanded
 mariner, encountered in New Bedford at the inn.
@@ -4611,7 +4611,7 @@ Bulkington! Bear thee grimly, demigod! Up from the spray of thy
 ocean-perishing—straight up, leaps thy apotheosis!
 
 
-CHAPTER 24. The Advocate.
+# CHAPTER 24. The Advocate
 
 As Queequeg and I are now fairly embarked in this business of whaling;
 and as this business of whaling has somehow come to be regarded among
@@ -4787,7 +4787,7 @@ my desk, then here I prospectively ascribe all the honor and the glory
 to whaling; for a whale-ship was my Yale College and my Harvard.
 
 
-CHAPTER 25. Postscript.
+# CHAPTER 25. Postscript
 
 In behalf of the dignity of whaling, I would fain advance naught but
 substantiated facts. But after embattling his facts, an advocate who
@@ -4820,7 +4820,7 @@ Think of that, ye loyal Britons! we whalemen supply your kings and
 queens with coronation stuff!
 
 
-CHAPTER 26. Knights and Squires.
+# CHAPTER 26. Knights and Squires
 
 The chief mate of the Pequod was Starbuck, a native of Nantucket, and a
 Quaker by descent. He was a long, earnest man, and though born on an
@@ -4933,7 +4933,7 @@ Thy selectest champions from the kingly commons; bear me out in it, O
 God!
 
 
-CHAPTER 27. Knights and Squires.
+# CHAPTER 27. Knights and Squires
 
 Stubb was the second mate. He was a native of Cape Cod; and hence,
 according to local usage, was called a Cape-Cod-man. A happy-go-lucky;
@@ -5087,7 +5087,7 @@ on high, he was bid strike in with angels, and beat his tambourine in
 glory; called a coward here, hailed a hero there!
 
 
-CHAPTER 28. Ahab.
+# CHAPTER 28. Ahab
 
 For several days after leaving Nantucket, nothing above hatches was
 seen of Captain Ahab. The mates regularly relieved each other at the
@@ -5216,7 +5216,7 @@ air. More than once did he put forth the faint blossom of a look,
 which, in any other man, would have soon flowered out in a smile.
 
 
-CHAPTER 29. Enter Ahab; to Him, Stubb.
+# CHAPTER 29. Enter Ahab; to Him, Stubb
 
 Some days elapsed, and ice and icebergs all astern, the Pequod now went
 rolling through the bright Quito spring, which, at sea, almost
@@ -5329,7 +5329,7 @@ hammock again; and in the morning, I’ll see how this plaguey juggling
 thinks over by daylight.”
 
 
-CHAPTER 30. The Pipe.
+# CHAPTER 30. The Pipe
 
 When Stubb had departed, Ahab stood for a while leaning over the
 bulwarks; and then, as had been usual with him of late, calling a
@@ -5360,7 +5360,7 @@ waves; the same instant the ship shot by the bubble the sinking pipe
 made. With slouched hat, Ahab lurchingly paced the planks.
 
 
-CHAPTER 31. Queen Mab.
+# CHAPTER 31. Queen Mab
 
 Next morning Stubb accosted Flask.
 
@@ -5435,7 +5435,7 @@ Look ye—there’s something special in the wind. Stand by for it, Flask.
 Ahab has that that’s bloody on his mind. But, mum; he comes this way.”
 
 
-CHAPTER 32. Cetology.
+# CHAPTER 32. Cetology
 
 Already we are boldly launched upon the deep; but soon we shall be lost
 in its unshored, harbourless immensities. Ere that come to pass; ere
@@ -5936,7 +5936,7 @@ completing anything. This whole book is but a draught—nay, but the
 draught of a draught. Oh, Time, Strength, Cash, and Patience!
 
 
-CHAPTER 33. The Specksnyder.
+# CHAPTER 33. The Specksnyder
 
 Concerning the officers of the whale-craft, this seems as good a place
 as any to set down a little domestic peculiarity on ship-board, arising
@@ -6034,7 +6034,7 @@ must needs be plucked at from the skies, and dived for in the deep, and
 featured in the unbodied air!
 
 
-CHAPTER 34. The Cabin-Table.
+# CHAPTER 34. The Cabin-Table
 
 It is noon; and Dough-Boy, the steward, thrusting his pale
 loaf-of-bread face from the cabin-scuttle, announces dinner to his lord
@@ -6236,7 +6236,7 @@ age, Ahab’s soul, shut up in the caved trunk of his body, there fed
 upon the sullen paws of its gloom!
 
 
-CHAPTER 35. The Mast-Head.
+# CHAPTER 35. The Mast-Head
 
 It was during the more pleasant weather, that in due rotation with the
 other seamen my first mast-head came round.
@@ -6475,7 +6475,7 @@ shriek you drop through that transparent air into the summer sea, no
 more to rise for ever. Heed it well, ye Pantheists!
 
 
-CHAPTER 36. The Quarter-Deck.
+# CHAPTER 36. The Quarter-Deck
 
 (_Enter Ahab: Then, all._)
 
@@ -6780,7 +6780,7 @@ pewter went the rounds among the frantic crew; when, waving his free
 hand to them, they all dispersed; and Ahab retired within his cabin.
 
 
-CHAPTER 37. Sunset.
+# CHAPTER 37. Sunset
 
 _The cabin; by the stern windows; Ahab sitting alone, and gazing out_.
 
@@ -6829,7 +6829,7 @@ torrents’ beds, unerringly I rush! Naught’s an obstacle, naught’s an
 angle to the iron way!
 
 
-CHAPTER 38. Dusk.
+# CHAPTER 38. Dusk
 
 _By the Mainmast; Starbuck leaning against it_.
 
@@ -6868,7 +6868,7 @@ ye, ye grim, phantom futures! Stand by me, hold me, bind me, O ye
 blessed influences!
 
 
-CHAPTER 39. First Night-Watch.
+# CHAPTER 39. First Night-Watch
 
 Fore-Top.
 
@@ -6902,7 +6902,7 @@ he’s my superior, he has his too, if I’m not mistaken.—Aye, aye, sir,
 just through with this job—coming.
 
 
-CHAPTER 40. Midnight, Forecastle.
+# CHAPTER 40. Midnight, Forecastle
 
 HARPOONEERS AND SAILORS.
 
@@ -7112,7 +7112,7 @@ this small black boy down here; preserve him from all men that have no
 bowels to feel fear!
 
 
-CHAPTER 41. Moby Dick.
+# CHAPTER 41. Moby Dick
 
 I, Ishmael, was one of that crew; my shouts had gone up with the rest;
 my oath had been welded with theirs; and stronger I shouted, and more
@@ -7470,7 +7470,7 @@ place; but while yet all a-rush to encounter the whale, could see
 naught in that brute but the deadliest ill.
 
 
-CHAPTER 42. The Whiteness of the Whale.
+# CHAPTER 42. The Whiteness of the Whale
 
 What the white whale was to Ahab, has been hinted; what, at times, he
 was to me, as yet remains unsaid.
@@ -7825,7 +7825,7 @@ of all these things the Albino whale was the symbol. Wonder ye then at
 the fiery hunt?
 
 
-CHAPTER 43. Hark!
+# CHAPTER 43. Hark!
 
 “HIST! Did you hear that noise, Cabaco?”
 
@@ -7873,7 +7873,7 @@ wind.”
 “Tish! the bucket!”
 
 
-CHAPTER 44. The Chart.
+# CHAPTER 44. The Chart
 
 Had you followed Captain Ahab down into his cabin after the squall that
 took place on the night succeeding that wild ratification of his
@@ -8070,7 +8070,7 @@ makes him a Prometheus; a vulture feeds upon that heart for ever; that
 vulture the very creature he creates.
 
 
-CHAPTER 45. The Affidavit.
+# CHAPTER 45. The Affidavit
 
 So far as what there may be of a narrative in this book; and, indeed,
 as indirectly touching one or two very interesting and curious
@@ -8399,7 +8399,7 @@ half a century stove the ships of a Roman Emperor, must in all
 probability have been a sperm whale.
 
 
-CHAPTER 46. Surmises.
+# CHAPTER 46. Surmises
 
 Though, consumed with the hot fire of his purpose, Ahab in all his
 thoughts and actions ever had in view the ultimate capture of Moby
@@ -8497,7 +8497,7 @@ mast-heads and admonishing them to keep a bright look-out, and not omit
 reporting even a porpoise. This vigilance was not long without reward.
 
 
-CHAPTER 47. The Mat-Maker.
+# CHAPTER 47. The Mat-Maker
 
 It was a cloudy, sultry afternoon; the seamen were lazily lounging
 about the decks, or vacantly gazing over into the lead-coloured waters.
@@ -8598,7 +8598,7 @@ every eye from the whale. With a start all glared at dark Ahab, who was
 surrounded by five dusky phantoms that seemed fresh formed out of air.
 
 
-CHAPTER 48. The First Lowering.
+# CHAPTER 48. The First Lowering
 
 The phantoms, for so they then seemed, were flitting on the other side
 of the deck, and, with a noiseless celerity, were casting loose the
@@ -9000,7 +9000,7 @@ had given us up, but was still cruising, if haply it might light upon
 some token of our perishing,—an oar or a lance pole.
 
 
-CHAPTER 49. The Hyena.
+# CHAPTER 49. The Hyena
 
 There are certain queer times and occasions in this strange mixed
 affair we call life when a man takes this whole universe for a vast
@@ -9084,7 +9084,7 @@ here goes for a cool, collected dive at death and destruction, and the
 devil fetch the hindmost.
 
 
-CHAPTER 50. Ahab’s Boat and Crew. Fedallah.
+# CHAPTER 50. Ahab’s Boat and Crew. Fedallah
 
 “Who would have thought it, Flask!” cried Stubb; “if I had but one leg
 you would not catch me in a boat, unless maybe to stop the plug-hole
@@ -9181,7 +9181,7 @@ consorted with the daughters of men, the devils also, add the
 uncanonical Rabbins, indulged in mundane amours.
 
 
-CHAPTER 51. The Spirit-Spout.
+# CHAPTER 51. The Spirit-Spout
 
 Days, weeks passed, and under easy sail, the ivory Pequod had slowly
 swept across four several cruising-grounds; that off the Azores; off
@@ -9329,7 +9329,7 @@ Terrible old man! thought Starbuck with a shudder, sleeping in this
 gale, still thou steadfastly eyest thy purpose.
 
 
-CHAPTER 52. The Albatross.
+# CHAPTER 52. The Albatross
 
 South-eastward from the Cape, off the distant Crozetts, a good cruising
 ground for Right Whalemen, a sail loomed ahead, the Goney (Albatross)
@@ -9401,7 +9401,7 @@ before all human hearts; while chasing such over this round globe, they
 either lead us on in barren mazes or midway leave us whelmed.
 
 
-CHAPTER 53. The Gam.
+# CHAPTER 53. The Gam
 
 The ostensible reason why Ahab did not go on board of the whaler we had
 spoken was this: the wind and sea betokened storms. But even had this
@@ -9552,7 +9552,7 @@ or two, in a sudden squall say—to seize hold of the nearest oarsman’s
 hair, and hold on there like grim death.
 
 
-CHAPTER 54. The Town-Ho’s Story.
+# CHAPTER 54. The Town-Ho’s Story
 
 (_As told at the Golden Inn._)
 
@@ -10367,7 +10367,7 @@ true; it happened on this ball; I trod the ship; I knew the crew; I
 have seen and talked with Steelkilt since the death of Radney.’”
 
 
-CHAPTER 55. Of the Monstrous Pictures of Whales.
+# CHAPTER 55. Of the Monstrous Pictures of Whales
 
 I shall ere long paint to you as well as one can without canvas,
 something like the true form of the whale as he actually appears to the
@@ -10550,8 +10550,7 @@ had best not be too fastidious in your curiosity touching this
 Leviathan.
 
 
-CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True
-Pictures of Whaling Scenes.
+# CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True Pictures of Whaling Scenes
 
 In connexion with the monstrous pictures of whales, I am strongly
 tempted here to enter upon those still more monstrous stories of them
@@ -10675,8 +10674,7 @@ with earnest of squalls and rains, seems to quicken the activity of the
 excited seamen.
 
 
-CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in
-Stone; in Mountains; in Stars.
+# CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars
 
 On Tower-hill, as you go down to the London docks, you may have seen a
 crippled beggar (or _kedger_, as the sailors say) holding a painted
@@ -10776,7 +10774,7 @@ see whether the fabled heavens with all their countless tents really
 lie encamped beyond my mortal sight!
 
 
-CHAPTER 58. Brit.
+# CHAPTER 58. Brit
 
 Steering north-eastward from the Crozetts, we fell in with vast meadows
 of brit, the minute, yellow substance, upon which the Right Whale
@@ -10877,7 +10875,7 @@ horrors of the half known life. God keep thee! Push not off from that
 isle, thou canst never return!
 
 
-CHAPTER 59. Squid.
+# CHAPTER 59. Squid
 
 Slowly wading through the meadows of brit, the Pequod still held on her
 way north-eastward towards the island of Java; a gentle air impelling
@@ -10975,7 +10973,7 @@ cuttle-fish, to which, indeed, in certain external respects it would
 seem to belong, but only as the Anak of the tribe.
 
 
-CHAPTER 60. The Line.
+# CHAPTER 60. The Line
 
 With reference to the whaling scene shortly to be described, as well as
 for the better understanding of all similar scenes elsewhere presented,
@@ -11110,7 +11108,7 @@ not at heart feel one whit more of terror, than though seated before
 your evening fire with a poker, and not a harpoon, by your side.
 
 
-CHAPTER 61. Stubb Kills a Whale.
+# CHAPTER 61. Stubb Kills a Whale
 
 If to Starbuck the apparition of the Squid was a thing of portents, to
 Queequeg it was quite a different object.
@@ -11306,7 +11304,7 @@ Stubb scattered the dead ashes over the water; and, for a moment, stood
 thoughtfully eyeing the vast corpse he had made.
 
 
-CHAPTER 62. The Dart.
+# CHAPTER 62. The Dart
 
 A word concerning an incident in the last chapter.
 
@@ -11362,7 +11360,7 @@ world must start to their feet from out of idleness, and not from out
 of toil.
 
 
-CHAPTER 63. The Crotch.
+# CHAPTER 63. The Crotch
 
 Out of the trunk, the branches grow; out of them, the twigs. So, in
 productive subjects, grow the chapters.
@@ -11413,7 +11411,7 @@ most important, however intricate passages, in scenes hereafter to be
 painted.
 
 
-CHAPTER 64. Stubb’s Supper.
+# CHAPTER 64. Stubb’s Supper
 
 Stubb’s whale had been killed some distance from the ship. It was a
 calm; so, forming a tandem of three boats, we commenced the slow
@@ -11738,7 +11736,7 @@ he ain’t more of shark dan Massa Shark hisself,” muttered the old man,
 limping away; with which sage ejaculation he went to his hammock.
 
 
-CHAPTER 65. The Whale as a Dish.
+# CHAPTER 65. The Whale as a Dish
 
 That mortal man should feed upon the creature that feeds his lamp, and,
 like Stubb, eat him by his own light, as you may say; this seems so
@@ -11831,7 +11829,7 @@ or two that that society passed a resolution to patronize nothing but
 steel pens.
 
 
-CHAPTER 66. The Shark Massacre.
+# CHAPTER 66. The Shark Massacre
 
 When in the Southern Fishery, a captured Sperm Whale, after long and
 weary toil, is brought alongside late at night, it is not, as a general
@@ -11892,7 +11890,7 @@ agonizingly lifting his hand up and down; “wedder Fejee god or
 Nantucket god; but de god wat made shark must be one dam Ingin.”
 
 
-CHAPTER 67. Cutting In.
+# CHAPTER 67. Cutting In
 
 It was a Saturday night, and such a Sabbath as followed! Ex officio
 professors of Sabbath breaking are all whalemen. The ivory Pequod was
@@ -11959,7 +11957,7 @@ scarfing, the ship straining, and all hands swearing occasionally, by
 way of assuaging the general friction.
 
 
-CHAPTER 68. The Blanket.
+# CHAPTER 68. The Blanket
 
 I have given no small attention to that not unvexed subject, the skin
 of the whale. I have had controversies about it with experienced
@@ -12072,7 +12070,7 @@ how few are domed like St. Peter’s! of creatures, how few vast as the
 whale!
 
 
-CHAPTER 69. The Funeral.
+# CHAPTER 69. The Funeral
 
 “Haul in the chains! Let the carcase go astern!”
 
@@ -12121,7 +12119,7 @@ the Cock-Lane one, and far deeper men than Doctor Johnson who believe
 in them.
 
 
-CHAPTER 70. The Sphynx.
+# CHAPTER 70. The Sphynx
 
 It should not have been omitted that previous to completely stripping
 the body of the leviathan, he was beheaded. Now, the beheading of the
@@ -12213,7 +12211,7 @@ smallest atom stirs or lives on matter, but has its cunning duplicate
 in mind.”
 
 
-CHAPTER 71. The Jeroboam’s Story.
+# CHAPTER 71. The Jeroboam’s Story
 
 Hand in hand, ship and breeze blew on; but the breeze came faster than
 the ship, and soon the Pequod began to rock.
@@ -12452,7 +12450,7 @@ of the whale, many strange things were hinted in reference to this wild
 affair.
 
 
-CHAPTER 72. The Monkey-Rope.
+# CHAPTER 72. The Monkey-Rope
 
 In the tumultuous business of cutting-in and attending to a whale,
 there is much running backwards and forwards among the crew. Now hands
@@ -12618,8 +12616,7 @@ was handed to Queequeg; the second was Aunt Charity’s gift, and that
 was freely given to the waves.
 
 
-CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk
-over Him.
+# CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk over Him
 
 It must be borne in mind that all this time we have a Sperm Whale’s
 prodigious head hanging to the Pequod’s side. But we must let it
@@ -12849,7 +12846,7 @@ speculations were bandied among them, concerning all these passing
 things.
 
 
-CHAPTER 74. The Sperm Whale’s Head—Contrasted View.
+# CHAPTER 74. The Sperm Whale’s Head—Contrasted View
 
 Here, now, are two great whales, laying their heads together; let us
 join them, and lay together our own.
@@ -13002,7 +12999,7 @@ nor filled after our artificial fashion. The jaw is afterwards sawn
 into slabs, and piled away like joists for building houses.
 
 
-CHAPTER 75. The Right Whale’s Head—Contrasted View.
+# CHAPTER 75. The Right Whale’s Head—Contrasted View
 
 Crossing the deck, let us now have a good long look at the Right
 Whale’s head.
@@ -13120,7 +13117,7 @@ Stoic; the Sperm Whale, a Platonian, who might have taken up Spinoza in
 his latter years.
 
 
-CHAPTER 76. The Battering-Ram.
+# CHAPTER 76. The Battering-Ram
 
 Ere quitting, for the nonce, the Sperm Whale’s head, I would have you,
 as a sensible physiologist, simply—particularly remark its front
@@ -13202,7 +13199,7 @@ then? What befell the weakling youth lifting the dread goddess’s veil
 at Lais?
 
 
-CHAPTER 77. The Great Heidelburgh Tun.
+# CHAPTER 77. The Great Heidelburgh Tun
 
 Now comes the Baling of the Case. But to comprehend it aright, you must
 know something of the curious internal structure of the thing operated
@@ -13273,7 +13270,7 @@ this particular instance—almost fatal operation whereby the Sperm
 Whale’s great Heidelburgh Tun is tapped.
 
 
-CHAPTER 78. Cistern and Buckets.
+# CHAPTER 78. Cistern and Buckets
 
 Nimble as a cat, Tashtego mounts aloft; and without altering his erect
 posture, runs straight out upon the overhanging mainyard-arm, to the
@@ -13433,7 +13430,7 @@ many, think ye, have likewise fallen into Plato’s honey head, and
 sweetly perished there?
 
 
-CHAPTER 79. The Prairie.
+# CHAPTER 79. The Prairie
 
 To scan the lines of his face, or feel the bumps on the head of this
 Leviathan; this is a thing which no Physiognomist or Phrenologist has
@@ -13524,7 +13521,7 @@ the Sperm Whale’s brow? I but put that brow before you. Read it if you
 can.
 
 
-CHAPTER 80. The Nut.
+# CHAPTER 80. The Nut
 
 If the Sperm Whale be physiognomically a Sphinx, to the phrenologist
 his brain seems that geometrical circle which it is impossible to
@@ -13612,7 +13609,7 @@ Whale. And that the great monster is indomitable, you will yet have
 reason to know.
 
 
-CHAPTER 81. The Pequod Meets The Virgin.
+# CHAPTER 81. The Pequod Meets The Virgin
 
 The predestinated day arrived, and we duly met the ship Jungfrau,
 Derick De Deer, master, of Bremen.
@@ -14036,7 +14033,7 @@ far to leeward, still in bold, hopeful chase.
 Oh! many are the Fin-Backs, and many are the Dericks, my friend.
 
 
-CHAPTER 82. The Honor and Glory of Whaling.
+# CHAPTER 82. The Honor and Glory of Whaling
 
 There are some enterprises in which a careful disorderliness is the
 true method.
@@ -14146,7 +14143,7 @@ member-roll for you! What club but the whaleman’s can head off like
 that?
 
 
-CHAPTER 83. Jonah Historically Regarded.
+# CHAPTER 83. Jonah Historically Regarded
 
 Reference was made to the historical story of Jonah and the whale in
 the preceding chapter. Now some Nantucketers rather distrust this
@@ -14221,7 +14218,7 @@ Voyages, speaks of a Turkish Mosque built in honor of Jonah, in which
 Mosque was a miraculous lamp that burnt without any oil.
 
 
-CHAPTER 84. Pitchpoling.
+# CHAPTER 84. Pitchpoling
 
 To make them run easily and swiftly, the axles of carriages are
 anointed; and for much the same purpose, some whalers perform an
@@ -14304,7 +14301,7 @@ slackened, and the pitchpoler dropping astern, folds his hands, and
 mutely watches the monster die.
 
 
-CHAPTER 85. The Fountain.
+# CHAPTER 85. The Fountain
 
 That for six thousand years—and no one knows how many millions of ages
 before—the great whales should have been spouting all over the sea, and
@@ -14491,7 +14488,7 @@ combination makes neither believer nor infidel, but makes a man who
 regards them both with equal eye.
 
 
-CHAPTER 86. The Tail.
+# CHAPTER 86. The Tail
 
 Other poets have warbled the praises of the soft eye of the antelope,
 and the lovely plumage of the bird that never alights; less celestial,
@@ -14667,7 +14664,7 @@ But I cannot completely make out his back parts; and hint what he will
 about his face, I say again he has no face.
 
 
-CHAPTER 87. The Grand Armada.
+# CHAPTER 87. The Grand Armada
 
 The long and narrow peninsula of Malacca, extending south-eastward from
 the territories of Birmah, forms the most southerly point of all Asia.
@@ -15120,7 +15117,7 @@ the time, but only to be taken, as will hereafter be seen, by some
 other craft than the Pequod.
 
 
-CHAPTER 88. Schools and Schoolmasters.
+# CHAPTER 88. Schools and Schoolmasters
 
 The previous chapter gave account of an immense body or herd of Sperm
 Whales, and there was also then given the probable cause inducing those
@@ -15241,7 +15238,7 @@ every token of concern, sometimes lingering so near her and so long, as
 themselves to fall a prey.
 
 
-CHAPTER 89. Fast-Fish and Loose-Fish.
+# CHAPTER 89. Fast-Fish and Loose-Fish
 
 The allusion to the waif and waif-poles in the last chapter but one,
 necessitates some account of the laws and regulations of the whale
@@ -15385,7 +15382,7 @@ Loose-Fish? What is the great globe itself but a Loose-Fish? And what
 are you, reader, but a Loose-Fish and a Fast-Fish, too?
 
 
-CHAPTER 90. Heads or Tails.
+# CHAPTER 90. Heads or Tails
 
 “De balena vero sufficit, si rex habeat caput, et regina caudam.”
 _Bracton, l. 3, c. 3._
@@ -15507,7 +15504,7 @@ humorously grounded upon some presumed congeniality. And thus there
 seems a reason in all things, even in law.
 
 
-CHAPTER 91. The Pequod Meets The Rose-Bud.
+# CHAPTER 91. The Pequod Meets The Rose-Bud
 
 “In vain it was to rake for Ambergriese in the paunch of this
 Leviathan, insufferable fetor denying not inquiry.” _Sir T. Browne,
@@ -15787,7 +15784,7 @@ it not for impatient Ahab’s loud command to Stubb to desist, and come
 on board, else the ship would bid them good bye.
 
 
-CHAPTER 92. Ambergris.
+# CHAPTER 92. Ambergris
 
 Now this ambergris is a very curious substance, and so important as an
 article of commerce, that in 1791 a certain Nantucket-born Captain
@@ -15879,7 +15876,7 @@ to that famous elephant, with jewelled tusks, and redolent with myrrh,
 which was led out of an Indian town to do honor to Alexander the Great?
 
 
-CHAPTER 93. The Castaway.
+# CHAPTER 93. The Castaway
 
 It was but some few days after encountering the Frenchman, that a most
 significant event befell the most insignificant of the Pequod’s crew;
@@ -16035,7 +16032,7 @@ fishery; and in the sequel of the narrative, it will then be seen what
 like abandonment befell myself.
 
 
-CHAPTER 94. A Squeeze of the Hand.
+# CHAPTER 94. A Squeeze of the Hand
 
 That whale of Stubb’s, so dearly purchased, was duly brought to the
 Pequod’s side, where all those cutting and hoisting operations
@@ -16163,7 +16160,7 @@ his own toes, or one of his assistants’, would you be very much
 astonished? Toes are scarce among veteran blubber-room men.
 
 
-CHAPTER 95. The Cassock.
+# CHAPTER 95. The Cassock
 
 Had you stepped on board the Pequod at a certain juncture of this
 post-mortemizing of the whale; and had you strolled forward nigh the
@@ -16212,7 +16209,7 @@ boiling out the oil is much accelerated, and its quantity considerably
 increased, besides perhaps improving it in quality.
 
 
-CHAPTER 96. The Try-Works.
+# CHAPTER 96. The Try-Works
 
 Besides her hoisted boats, an American whaler is outwardly
 distinguished by her try-works. She presents the curious anomaly of the
@@ -16381,7 +16378,7 @@ in the mountains; so that even in his lowest swoop the mountain eagle
 is still higher than other birds upon the plain, even though they soar.
 
 
-CHAPTER 97. The Lamp.
+# CHAPTER 97. The Lamp
 
 Had you descended from the Pequod’s try-works to the Pequod’s
 forecastle, where the off duty watch were sleeping, for one single
@@ -16408,7 +16405,7 @@ genuineness, even as the traveller on the prairie hunts up his own
 supper of game.
 
 
-CHAPTER 98. Stowing Down and Clearing Up.
+# CHAPTER 98. Stowing Down and Clearing Up
 
 Already has it been related how the great leviathan is afar off
 descried from the mast-head; how he is chased over the watery moors,
@@ -16507,7 +16504,7 @@ thee along the Peruvian coast last voyage—and, foolish as I am, taught
 thee, a green simple boy, how to splice a rope!
 
 
-CHAPTER 99. The Doubloon.
+# CHAPTER 99. The Doubloon
 
 Ere now it has been related how Ahab was wont to pace his quarter-deck,
 taking regular turns at either limit, the binnacle and mainmast; but in
@@ -16732,7 +16729,7 @@ blackberrying. Cook! ho, cook! and cook us! Jenny! hey, hey, hey, hey,
 hey, Jenny, Jenny! and get your hoe-cake done!”
 
 
-CHAPTER 100. Leg and Arm.
+# CHAPTER 100. Leg and Arm
 
 The Pequod, of Nantucket, Meets the Samuel Enderby, of London.
 
@@ -17010,7 +17007,7 @@ With back to the stranger ship, and face set like a flint to his own,
 Ahab stood upright till alongside of the Pequod.
 
 
-CHAPTER 101. The Decanter.
+# CHAPTER 101. The Decanter
 
 Ere the English ship fades from sight, be it set down here, that she
 hailed from London, and was named after the late Samuel Enderby,
@@ -17176,7 +17173,7 @@ world, get a good dinner out of it, at least. And this empties the
 decanter.
 
 
-CHAPTER 102. A Bower in the Arsacides.
+# CHAPTER 102. A Bower in the Arsacides
 
 Hitherto, in descriptively treating of the Sperm Whale, I have chiefly
 dwelt upon the marvels of his outer aspect; or separately and in detail
@@ -17330,7 +17327,7 @@ trouble myself with the odd inches; nor, indeed, should inches at all
 enter into a congenial admeasurement of the whale.
 
 
-CHAPTER 103. Measurement of The Whale’s Skeleton.
+# CHAPTER 103. Measurement of The Whale’s Skeleton
 
 In the first place, I wish to lay before you a particular, plain
 statement, touching the living bulk of this leviathan, whose skeleton
@@ -17422,7 +17419,7 @@ spine of even the hugest of living things tapers off at last into
 simple child’s play.
 
 
-CHAPTER 104. The Fossil Whale.
+# CHAPTER 104. The Fossil Whale
 
 From his mighty bulk the whale affords a most congenial theme whereon
 to enlarge, amplify, and generally expatiate. Would you, you could not
@@ -17562,7 +17559,7 @@ In this Afric Temple of the Whale I leave you, reader, and if you be a
 Nantucketer, and a whaleman, you will silently worship there.
 
 
-CHAPTER 105. Does the Whale’s Magnitude Diminish?—Will He Perish?
+# CHAPTER 105. Does the Whale's Magnitude Diminish?—Will He Perish?
 
 Inasmuch, then, as this Leviathan comes floundering down upon us from
 the head-waters of the Eternities, it may be fitly inquired, whether,
@@ -17717,7 +17714,7 @@ still survive, and rearing upon the topmost crest of the equatorial
 flood, spout his frothed defiance to the skies.
 
 
-CHAPTER 106. Ahab’s Leg.
+# CHAPTER 106. Ahab’s Leg
 
 The precipitating manner in which Captain Ahab had quitted the Samuel
 Enderby of London, had not been unattended with some small violence to
@@ -17807,7 +17804,7 @@ to accelerate the affair, the blacksmith was commanded to proceed at
 once to the forging of whatever iron contrivances might be needed.
 
 
-CHAPTER 107. The Carpenter.
+# CHAPTER 107. The Carpenter
 
 Seat thyself sultanically among the moons of Saturn, and take high
 abstracted man alone; and he seems a wonder, a grandeur, and a woe. But
@@ -17908,7 +17905,7 @@ body was a sentry-box and this soliloquizer on guard there, and talking
 all the time to keep himself awake.
 
 
-CHAPTER 108. Ahab and the Carpenter.
+# CHAPTER 108. Ahab and the Carpenter
 
 The Deck—First Night Watch.
 
@@ -18087,7 +18084,7 @@ smoothed ivory, where he figures up the latitude. So, so; chisel, file,
 and sand-paper, now!
 
 
-CHAPTER 109. Ahab and Starbuck in the Cabin.
+# CHAPTER 109. Ahab and Starbuck in the Cabin
 
 According to usage they were pumping the ship next morning; and lo! no
 inconsiderable oil came up with the water; the casks below must have
@@ -18193,7 +18190,7 @@ in the important chief officer of his ship. However it was, his orders
 were executed; and the Burtons were hoisted.
 
 
-CHAPTER 110. Queequeg in His Coffin.
+# CHAPTER 110. Queequeg in His Coffin
 
 Upon searching, it was found that the casks last struck into the hold
 were perfectly sound, and that the leak must be further off. So, it
@@ -18405,7 +18402,7 @@ when one morning turning away from surveying poor Queequeg—“Oh,
 devilish tantalization of the gods!”
 
 
-CHAPTER 111. The Pacific.
+# CHAPTER 111. The Pacific
 
 When gliding by the Bashee isles we emerged at last upon the great
 South Sea; were it not for other things, I could have greeted my dear
@@ -18450,7 +18447,7 @@ through the vaulted hull, “Stern all! the White Whale spouts thick
 blood!”
 
 
-CHAPTER 112. The Blacksmith.
+# CHAPTER 112. The Blacksmith
 
 Availing himself of the mild, summer-cool weather that now reigned in
 these latitudes, and in preparation for the peculiarly active pursuits
@@ -18545,7 +18542,7 @@ fall of eve, the blacksmith’s soul responded, Aye, I come! And so Perth
 went a-whaling.
 
 
-CHAPTER 113. The Forge.
+# CHAPTER 113. The Forge
 
 With matted beard, and swathed in a bristling shark-skin apron, about
 mid-day, Perth was standing between his forge and anvil, the latter
@@ -18685,7 +18682,7 @@ strange mummeries not unmeaningly blended with the black tragedy of the
 melancholy ship, and mocked it!
 
 
-CHAPTER 114. The Gilder.
+# CHAPTER 114. The Gilder
 
 Penetrating further and further into the heart of the Japanese cruising
 ground, the Pequod was soon all astir in the fishery. Often, in mild,
@@ -18757,7 +18754,7 @@ golden light:—
 he has always been jolly!”
 
 
-CHAPTER 115. The Pequod Meets The Bachelor.
+# CHAPTER 115. The Pequod Meets The Bachelor
 
 And jolly enough were the sights and the sounds that came bearing down
 before the wind, some few weeks after Ahab’s harpoon had been welded.
@@ -18855,7 +18852,7 @@ thereby bringing two remote associations together, for that vial was
 filled with Nantucket soundings.
 
 
-CHAPTER 116. The Dying Whale.
+# CHAPTER 116. The Dying Whale
 
 Not seldom in this life, when, on the right side, fortune’s favourites
 sail close by us, we, though all adroop before, catch somewhat of the
@@ -18910,7 +18907,7 @@ fowl finds his only rest. Born of earth, yet suckled by the sea; though
 hill and valley mothered me, ye billows are my foster-brothers!”
 
 
-CHAPTER 117. The Whale Watch.
+# CHAPTER 117. The Whale Watch
 
 The four whales slain that evening had died wide apart; one, far to
 windward; one, less distant, to leeward; one ahead; one astern. These
@@ -18969,7 +18966,7 @@ slumbering crew arose from the boat’s bottom, and ere noon the dead
 whale was brought to the ship.
 
 
-CHAPTER 118. The Quadrant.
+# CHAPTER 118. The Quadrant
 
 The season for the Line at length drew near; and every day when Ahab,
 coming from his cabin, cast his eyes aloft, the vigilant helmsman would
@@ -19056,7 +19053,7 @@ mine; swears that I must play them, and no others.’ And damn me, Ahab,
 but thou actest right; live in the game, and die in it!”
 
 
-CHAPTER 119. The Candles.
+# CHAPTER 119. The Candles
 
 Warmest climes but nurse the cruellest fangs: the tiger of Bengal
 crouches in spiced groves of ceaseless verdure. Skies the most
@@ -19322,7 +19319,7 @@ thunderbolts; so at those last words of Ahab’s many of the mariners did
 run from him in a terror of dismay.
 
 
-CHAPTER 120. The Deck Towards the End of the First Night Watch.
+# CHAPTER 120. The Deck Towards the End of the First Night Watch
 
 _Ahab standing by the helm. Starbuck approaching him._
 
@@ -19349,7 +19346,7 @@ there! I would e’en take it for sublime, did I not know that the colic
 is a noisy malady. Oh, take medicine, take medicine!”
 
 
-CHAPTER 121. Midnight.—The Forecastle Bulwarks.
+# CHAPTER 121. Midnight.—The Forecastle Bulwarks
 
 _Stubb and Flask mounted on them, and passing additional lashings over
 the anchors there hanging._
@@ -19409,7 +19406,7 @@ Lord, that the winds that come from heaven should be so unmannerly!
 This is a nasty night, lad.”
 
 
-CHAPTER 122. Midnight Aloft.—Thunder and Lightning.
+# CHAPTER 122. Midnight Aloft.—Thunder and Lightning
 
 _The main-top-sail yard_.—_Tashtego passing new lashings around it_.
 
@@ -19418,7 +19415,7 @@ the use of thunder? Um, um, um. We don’t want thunder; we want rum;
 give us a glass of rum. Um, um, um!”
 
 
-CHAPTER 123. The Musket.
+# CHAPTER 123. The Musket
 
 During the most violent shocks of the Typhoon, the man at the Pequod’s
 jaw-bone tiller had several times been reelingly hurled to the deck by
@@ -19539,7 +19536,7 @@ placed the death-tube in its rack, and left the place.
 him. I must see to the deck here. Thou know’st what to say.”
 
 
-CHAPTER 124. The Needle.
+# CHAPTER 124. The Needle
 
 Next morning the not-yet-subsided sea rolled in long slow billows of
 mighty bulk, and striving in the Pequod’s gurgling track, pushed her on
@@ -19671,7 +19668,7 @@ In his fiery eyes of scorn and triumph, you then saw Ahab in all his
 fatal pride.
 
 
-CHAPTER 125. The Log and Line.
+# CHAPTER 125. The Log and Line
 
 While now the fated Pequod had been so long afloat this voyage, the log
 and line had but very seldom been in use. Owing to a confident reliance
@@ -19806,7 +19803,7 @@ rotten line—all dripping, too. Mend it, eh? I think we had best have a
 new line altogether. I’ll see Mr. Stubb about it.”
 
 
-CHAPTER 126. The Life-Buoy.
+# CHAPTER 126. The Life-Buoy
 
 Steering now south-eastward by Ahab’s levelled steel, and her progress
 solely determined by Ahab’s level log and line; the Pequod held on her
@@ -19946,7 +19943,7 @@ not seen very often beneath the sun! Come hammer, caulking-iron,
 pitch-pot, and marling-spike! Let’s to it.”
 
 
-CHAPTER 127. The Deck.
+# CHAPTER 127. The Deck
 
 _The coffin laid upon two line-tubs, between the vice-bench and the
 open hatchway; the Carpenter caulking its seams; the string of twisted
@@ -20041,7 +20038,7 @@ philosophies from thee! Some unknown conduits from the unknown worlds
 must empty into thee!”
 
 
-CHAPTER 128. The Pequod Meets The Rachel.
+# CHAPTER 128. The Pequod Meets The Rachel
 
 Next day, a large ship, the Rachel, was descried, bearing directly down
 upon the Pequod, all her spars thickly clustering with men. At the time
@@ -20185,7 +20182,7 @@ comfort. She was Rachel, weeping for her children, because they were
 not.
 
 
-CHAPTER 129. The Cabin.
+# CHAPTER 129. The Cabin
 
 (_Ahab moving to go on deck; Pip catches him by the hand to follow._)
 
@@ -20247,7 +20244,7 @@ this stern strikes rocks; and they bulge through; and oysters come to
 join me.”
 
 
-CHAPTER 130. The Hat.
+# CHAPTER 130. The Hat
 
 And now that at the proper time and place, after so long and wide a
 preliminary cruise, Ahab,—all other whaling waters swept—seemed to have
@@ -20411,7 +20408,7 @@ while from the point of that disappearance, a minute black spot was
 dimly discerned, falling from that vast height into the sea.
 
 
-CHAPTER 131. The Pequod Meets The Delight.
+# CHAPTER 131. The Pequod Meets The Delight
 
 The intense Pequod sailed on; the rolling waves and days went by; the
 life-buoy-coffin still lightly swung; and another ship, most miserably
@@ -20465,7 +20462,7 @@ hanging at the Pequod’s stern came into conspicuous relief.
 taffrail to show us your coffin!”
 
 
-CHAPTER 132. The Symphony.
+# CHAPTER 132. The Symphony
 
 It was a clear steel-blue day. The firmaments of air and sea were
 hardly separable in that all-pervading azure; only, the pensive air was
@@ -20624,7 +20621,7 @@ two reflected, fixed eyes in the water there. Fedallah was motionlessly
 leaning over the same rail.
 
 
-CHAPTER 133. The Chase—First Day.
+# CHAPTER 133. The Chase—First Day
 
 That night, in the mid-watch, when the old man—as his wont at
 intervals—stepped forth from the scuttle in which he leaned, and went
@@ -20993,7 +20990,7 @@ slouching his hat, stood there till dawn, except when at intervals
 rousing himself to see how the night wore on.
 
 
-CHAPTER 134. The Chase—Second Day.
+# CHAPTER 134. The Chase—Second Day
 
 At day-break, the three mast-heads were punctually manned afresh.
 
@@ -21331,7 +21328,7 @@ scuttle; his hid, heliotrope glance anticipatingly gone backward on its
 dial; sat due eastward for the earliest sun.
 
 
-CHAPTER 135. The Chase.—Third Day.
+# CHAPTER 135. The Chase.—Third Day
 
 The morning of the third day dawned fair and fresh, and once more the
 solitary night-man at the fore-mast-head was relieved by crowds of the
@@ -21786,7 +21783,7 @@ white surf beat against its steep sides; then all collapsed, and the
 great shroud of the sea rolled on as it rolled five thousand years ago.
 
 
-Epilogue
+# Epilogue
 
 “AND I ONLY AM ESCAPED ALONE TO TELL THEE” Job.
 
