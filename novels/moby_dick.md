@@ -25,294 +25,154 @@ Credits: Daniel Lazarus, Jonesey, and David Widger
 
 
 
-MOBY-DICK;
+ # MOBY-DICK;
 
-or, THE WHALE.
+## or, THE WHALE.
 
 By Herman Melville
 
 
 
-CONTENTS
-
-ETYMOLOGY.
-
-EXTRACTS (Supplied by a Sub-Sub-Librarian).
-
-CHAPTER 1. Loomings.
-
-CHAPTER 2. The Carpet-Bag.
-
-CHAPTER 3. The Spouter-Inn.
-
-CHAPTER 4. The Counterpane.
-
-CHAPTER 5. Breakfast.
-
-CHAPTER 6. The Street.
-
-CHAPTER 7. The Chapel.
-
-CHAPTER 8. The Pulpit.
-
-CHAPTER 9. The Sermon.
-
-CHAPTER 10. A Bosom Friend.
-
-CHAPTER 11. Nightgown.
-
-CHAPTER 12. Biographical.
-
-CHAPTER 13. Wheelbarrow.
-
-CHAPTER 14. Nantucket.
-
-CHAPTER 15. Chowder.
-
-CHAPTER 16. The Ship.
-
-CHAPTER 17. The Ramadan.
-
-CHAPTER 18. His Mark.
-
-CHAPTER 19. The Prophet.
-
-CHAPTER 20. All Astir.
-
-CHAPTER 21. Going Aboard.
-
-CHAPTER 22. Merry Christmas.
-
-CHAPTER 23. The Lee Shore.
-
-CHAPTER 24. The Advocate.
-
-CHAPTER 25. Postscript.
-
-CHAPTER 26. Knights and Squires.
-
-CHAPTER 27. Knights and Squires.
-
-CHAPTER 28. Ahab.
-
-CHAPTER 29. Enter Ahab; to Him, Stubb.
-
-CHAPTER 30. The Pipe.
-
-CHAPTER 31. Queen Mab.
-
-CHAPTER 32. Cetology.
-
-CHAPTER 33. The Specksnyder.
-
-CHAPTER 34. The Cabin-Table.
-
-CHAPTER 35. The Mast-Head.
-
-CHAPTER 36. The Quarter-Deck.
-
-CHAPTER 37. Sunset.
-
-CHAPTER 38. Dusk.
-
-CHAPTER 39. First Night-Watch.
-
-CHAPTER 40. Midnight, Forecastle.
-
-CHAPTER 41. Moby Dick.
-
-CHAPTER 42. The Whiteness of the Whale.
-
-CHAPTER 43. Hark!
-
-CHAPTER 44. The Chart.
-
-CHAPTER 45. The Affidavit.
-
-CHAPTER 46. Surmises.
-
-CHAPTER 47. The Mat-Maker.
-
-CHAPTER 48. The First Lowering.
-
-CHAPTER 49. The Hyena.
-
-CHAPTER 50. Ahab’s Boat and Crew. Fedallah.
-
-CHAPTER 51. The Spirit-Spout.
-
-CHAPTER 52. The Albatross.
-
-CHAPTER 53. The Gam.
-
-CHAPTER 54. The Town-Ho’s Story.
-
-CHAPTER 55. Of the Monstrous Pictures of Whales.
-
-CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True
-Pictures of Whaling Scenes.
-
-CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in
-Stone; in Mountains; in Stars.
-
-CHAPTER 58. Brit.
-
-CHAPTER 59. Squid.
-
-CHAPTER 60. The Line.
-
-CHAPTER 61. Stubb Kills a Whale.
-
-CHAPTER 62. The Dart.
-
-CHAPTER 63. The Crotch.
-
-CHAPTER 64. Stubb’s Supper.
-
-CHAPTER 65. The Whale as a Dish.
-
-CHAPTER 66. The Shark Massacre.
-
-CHAPTER 67. Cutting In.
-
-CHAPTER 68. The Blanket.
-
-CHAPTER 69. The Funeral.
-
-CHAPTER 70. The Sphynx.
-
-CHAPTER 71. The Jeroboam’s Story.
-
-CHAPTER 72. The Monkey-Rope.
-
-CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk
-over Him.
-
-CHAPTER 74. The Sperm Whale’s Head—Contrasted View.
-
-CHAPTER 75. The Right Whale’s Head—Contrasted View.
-
-CHAPTER 76. The Battering-Ram.
-
-CHAPTER 77. The Great Heidelburgh Tun.
-
-CHAPTER 78. Cistern and Buckets.
-
-CHAPTER 79. The Prairie.
-
-CHAPTER 80. The Nut.
-
-CHAPTER 81. The Pequod Meets The Virgin.
-
-CHAPTER 82. The Honor and Glory of Whaling.
-
-CHAPTER 83. Jonah Historically Regarded.
-
-CHAPTER 84. Pitchpoling.
-
-CHAPTER 85. The Fountain.
-
-CHAPTER 86. The Tail.
-
-CHAPTER 87. The Grand Armada.
-
-CHAPTER 88. Schools and Schoolmasters.
-
-CHAPTER 89. Fast-Fish and Loose-Fish.
-
-CHAPTER 90. Heads or Tails.
-
-CHAPTER 91. The Pequod Meets The Rose-Bud.
-
-CHAPTER 92. Ambergris.
-
-CHAPTER 93. The Castaway.
-
-CHAPTER 94. A Squeeze of the Hand.
-
-CHAPTER 95. The Cassock.
-
-CHAPTER 96. The Try-Works.
-
-CHAPTER 97. The Lamp.
-
-CHAPTER 98. Stowing Down and Clearing Up.
-
-CHAPTER 99. The Doubloon.
-
-CHAPTER 100. Leg and Arm.
-
-CHAPTER 101. The Decanter.
-
-CHAPTER 102. A Bower in the Arsacides.
-
-CHAPTER 103. Measurement of The Whale’s Skeleton.
-
-CHAPTER 104. The Fossil Whale.
-
-CHAPTER 105. Does the Whale’s Magnitude Diminish?—Will He Perish?
-
-CHAPTER 106. Ahab’s Leg.
-
-CHAPTER 107. The Carpenter.
-
-CHAPTER 108. Ahab and the Carpenter.
-
-CHAPTER 109. Ahab and Starbuck in the Cabin.
-
-CHAPTER 110. Queequeg in His Coffin.
-
-CHAPTER 111. The Pacific.
-
-CHAPTER 112. The Blacksmith.
-
-CHAPTER 113. The Forge.
-
-CHAPTER 114. The Gilder.
-
-CHAPTER 115. The Pequod Meets The Bachelor.
-
-CHAPTER 116. The Dying Whale.
-
-CHAPTER 117. The Whale Watch.
-
-CHAPTER 118. The Quadrant.
-
-CHAPTER 119. The Candles.
-
-CHAPTER 120. The Deck Towards the End of the First Night Watch.
-
-CHAPTER 121. Midnight.—The Forecastle Bulwarks.
-
-CHAPTER 122. Midnight Aloft.—Thunder and Lightning.
-
-CHAPTER 123. The Musket.
-
-CHAPTER 124. The Needle.
-
-CHAPTER 125. The Log and Line.
-
-CHAPTER 126. The Life-Buoy.
-
-CHAPTER 127. The Deck.
-
-CHAPTER 128. The Pequod Meets The Rachel.
-
-CHAPTER 129. The Cabin.
-
-CHAPTER 130. The Hat.
-
-CHAPTER 131. The Pequod Meets The Delight.
-
-CHAPTER 132. The Symphony.
-
-CHAPTER 133. The Chase—First Day.
-
-CHAPTER 134. The Chase—Second Day.
-
-CHAPTER 135. The Chase.—Third Day.
-
-Epilogue
+# Table of Contents
+
+- [ETYMOLOGY](#etymology)
+- [EXTRACTS (Supplied by a Sub-Sub-Librarian)](#extracts-supplied-by-a-sub-sub-librarian)
+- [CHAPTER 1. Loomings](#chapter-1-loomings)
+- [CHAPTER 2. The Carpet-Bag](#chapter-2-the-carpet-bag)
+- [CHAPTER 3. The Spouter-Inn](#chapter-3-the-spouter-inn)
+- [CHAPTER 4. The Counterpane](#chapter-4-the-counterpane)
+- [CHAPTER 5. Breakfast](#chapter-5-breakfast)
+- [CHAPTER 6. The Street](#chapter-6-the-street)
+- [CHAPTER 7. The Chapel](#chapter-7-the-chapel)
+- [CHAPTER 8. The Pulpit](#chapter-8-the-pulpit)
+- [CHAPTER 9. The Sermon](#chapter-9-the-sermon)
+- [CHAPTER 10. A Bosom Friend](#chapter-10-a-bosom-friend)
+- [CHAPTER 11. Nightgown](#chapter-11-nightgown)
+- [CHAPTER 12. Biographical](#chapter-12-biographical)
+- [CHAPTER 13. Wheelbarrow](#chapter-13-wheelbarrow)
+- [CHAPTER 14. Nantucket](#chapter-14-nantucket)
+- [CHAPTER 15. Chowder](#chapter-15-chowder)
+- [CHAPTER 16. The Ship](#chapter-16-the-ship)
+- [CHAPTER 17. The Ramadan](#chapter-17-the-ramadan)
+- [CHAPTER 18. His Mark](#chapter-18-his-mark)
+- [CHAPTER 19. The Prophet](#chapter-19-the-prophet)
+- [CHAPTER 20. All Astir](#chapter-20-all-astir)
+- [CHAPTER 21. Going Aboard](#chapter-21-going-aboard)
+- [CHAPTER 22. Merry Christmas](#chapter-22-merry-christmas)
+- [CHAPTER 23. The Lee Shore](#chapter-23-the-lee-shore)
+- [CHAPTER 24. The Advocate](#chapter-24-the-advocate)
+- [CHAPTER 25. Postscript](#chapter-25-postscript)
+- [CHAPTER 26. Knights and Squires](#chapter-26-knights-and-squires)
+- [CHAPTER 27. Knights and Squires](#chapter-27-knights-and-squires)
+- [CHAPTER 28. Ahab](#chapter-28-ahab)
+- [CHAPTER 29. Enter Ahab; to Him, Stubb](#chapter-29-enter-ahab-to-him-stubb)
+- [CHAPTER 30. The Pipe](#chapter-30-the-pipe)
+- [CHAPTER 31. Queen Mab](#chapter-31-queen-mab)
+- [CHAPTER 32. Cetology](#chapter-32-cetology)
+- [CHAPTER 33. The Specksnyder](#chapter-33-the-specksnyder)
+- [CHAPTER 34. The Cabin-Table](#chapter-34-the-cabin-table)
+- [CHAPTER 35. The Mast-Head](#chapter-35-the-mast-head)
+- [CHAPTER 36. The Quarter-Deck](#chapter-36-the-quarter-deck)
+- [CHAPTER 37. Sunset](#chapter-37-sunset)
+- [CHAPTER 38. Dusk](#chapter-38-dusk)
+- [CHAPTER 39. First Night-Watch](#chapter-39-first-night-watch)
+- [CHAPTER 40. Midnight, Forecastle](#chapter-40-midnight-forecastle)
+- [CHAPTER 41. Moby Dick](#chapter-41-moby-dick)
+- [CHAPTER 42. The Whiteness of the Whale](#chapter-42-the-whiteness-of-the-whale)
+- [CHAPTER 43. Hark!](#chapter-43-hark)
+- [CHAPTER 44. The Chart](#chapter-44-the-chart)
+- [CHAPTER 45. The Affidavit](#chapter-45-the-affidavit)
+- [CHAPTER 46. Surmises](#chapter-46-surmises)
+- [CHAPTER 47. The Mat-Maker](#chapter-47-the-mat-maker)
+- [CHAPTER 48. The First Lowering](#chapter-48-the-first-lowering)
+- [CHAPTER 49. The Hyena](#chapter-49-the-hyena)
+- [CHAPTER 50. Ahab's Boat and Crew. Fedallah](#chapter-50-ahabs-boat-and-crew-fedallah)
+- [CHAPTER 51. The Spirit-Spout](#chapter-51-the-spirit-spout)
+- [CHAPTER 52. The Albatross](#chapter-52-the-albatross)
+- [CHAPTER 53. The Gam](#chapter-53-the-gam)
+- [CHAPTER 54. The Town-Ho's Story](#chapter-54-the-town-hos-story)
+- [CHAPTER 55. Of the Monstrous Pictures of Whales](#chapter-55-of-the-monstrous-pictures-of-whales)
+- [CHAPTER 56. Of the Less Erroneous Pictures of Whales, and the True Pictures of Whaling Scenes](#chapter-56-of-the-less-erroneous-pictures-of-whales-and-the-true-pictures-of-whaling-scenes)
+- [CHAPTER 57. Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars](#chapter-57-of-whales-in-paint-in-teeth-in-wood-in-sheet-iron-in-stone-in-mountains-in-stars)
+- [CHAPTER 58. Brit](#chapter-58-brit)
+- [CHAPTER 59. Squid](#chapter-59-squid)
+- [CHAPTER 60. The Line](#chapter-60-the-line)
+- [CHAPTER 61. Stubb Kills a Whale](#chapter-61-stubb-kills-a-whale)
+- [CHAPTER 62. The Dart](#chapter-62-the-dart)
+- [CHAPTER 63. The Crotch](#chapter-63-the-crotch)
+- [CHAPTER 64. Stubb's Supper](#chapter-64-stubbs-supper)
+- [CHAPTER 65. The Whale as a Dish](#chapter-65-the-whale-as-a-dish)
+- [CHAPTER 66. The Shark Massacre](#chapter-66-the-shark-massacre)
+- [CHAPTER 67. Cutting In](#chapter-67-cutting-in)
+- [CHAPTER 68. The Blanket](#chapter-68-the-blanket)
+- [CHAPTER 69. The Funeral](#chapter-69-the-funeral)
+- [CHAPTER 70. The Sphynx](#chapter-70-the-sphynx)
+- [CHAPTER 71. The Jeroboam's Story](#chapter-71-the-jeroboams-story)
+- [CHAPTER 72. The Monkey-Rope](#chapter-72-the-monkey-rope)
+- [CHAPTER 73. Stubb and Flask kill a Right Whale; and Then Have a Talk over Him](#chapter-73-stubb-and-flask-kill-a-right-whale-and-then-have-a-talk-over-him)
+- [CHAPTER 74. The Sperm Whale's Head—Contrasted View](#chapter-74-the-sperm-whales-head—contrasted-view)
+- [CHAPTER 75. The Right Whale's Head—Contrasted View](#chapter-75-the-right-whales-head—contrasted-view)
+- [CHAPTER 76. The Battering-Ram](#chapter-76-the-battering-ram)
+- [CHAPTER 77. The Great Heidelburgh Tun](#chapter-77-the-great-heidelburgh-tun)
+- [CHAPTER 78. Cistern and Buckets](#chapter-78-cistern-and-buckets)
+- [CHAPTER 79. The Prairie](#chapter-79-the-prairie)
+- [CHAPTER 80. The Nut](#chapter-80-the-nut)
+- [CHAPTER 81. The Pequod Meets The Virgin](#chapter-81-the-pequod-meets-the-virgin)
+- [CHAPTER 82. The Honor and Glory of Whaling](#chapter-82-the-honor-and-glory-of-whaling)
+- [CHAPTER 83. Jonah Historically Regarded](#chapter-83-jonah-historically-regarded)
+- [CHAPTER 84. Pitchpoling](#chapter-84-pitchpoling)
+- [CHAPTER 85. The Fountain](#chapter-85-the-fountain)
+- [CHAPTER 86. The Tail](#chapter-86-the-tail)
+- [CHAPTER 87. The Grand Armada](#chapter-87-the-grand-armada)
+- [CHAPTER 88. Schools and Schoolmasters](#chapter-88-schools-and-schoolmasters)
+- [CHAPTER 89. Fast-Fish and Loose-Fish](#chapter-89-fast-fish-and-loose-fish)
+- [CHAPTER 90. Heads or Tails](#chapter-90-heads-or-tails)
+- [CHAPTER 91. The Pequod Meets The Rose-Bud](#chapter-91-the-pequod-meets-the-rose-bud)
+- [CHAPTER 92. Ambergris](#chapter-92-ambergris)
+- [CHAPTER 93. The Castaway](#chapter-93-the-castaway)
+- [CHAPTER 94. A Squeeze of the Hand](#chapter-94-a-squeeze-of-the-hand)
+- [CHAPTER 95. The Cassock](#chapter-95-the-cassock)
+- [CHAPTER 96. The Try-Works](#chapter-96-the-try-works)
+- [CHAPTER 97. The Lamp](#chapter-97-the-lamp)
+- [CHAPTER 98. Stowing Down and Clearing Up](#chapter-98-stowing-down-and-clearing-up)
+- [CHAPTER 99. The Doubloon](#chapter-99-the-doubloon)
+- [CHAPTER 100. Leg and Arm](#chapter-100-leg-and-arm)
+- [CHAPTER 101. The Decanter](#chapter-101-the-decanter)
+- [CHAPTER 102. A Bower in the Arsacides](#chapter-102-a-bower-in-the-arsacides)
+- [CHAPTER 103. Measurement of The Whale's Skeleton](#chapter-103-measurement-of-the-whales-skeleton)
+- [CHAPTER 104. The Fossil Whale](#chapter-104-the-fossil-whale)
+- [CHAPTER 105. Does the Whale's Magnitude Diminish?—Will He Perish?](#chapter-105-does-the-whales-magnitude-diminishwill-he-perish)
+- [CHAPTER 106. Ahab's Leg](#chapter-106-ahabs-leg)
+- [CHAPTER 107. The Carpenter](#chapter-107-the-carpenter)
+- [CHAPTER 108. Ahab and the Carpenter](#chapter-108-ahab-and-the-carpenter)
+- [CHAPTER 109. Ahab and Starbuck in the Cabin](#chapter-109-ahab-and-starbuck-in-the-cabin)
+- [CHAPTER 110. Queequeg in His Coffin](#chapter-110-queequeg-in-his-coffin)
+- [CHAPTER 111. The Pacific](#chapter-111-the-pacific)
+- [CHAPTER 112. The Blacksmith](#chapter-112-the-blacksmith)
+- [CHAPTER 113. The Forge](#chapter-113-the-forge)
+- [CHAPTER 114. The Gilder](#chapter-114-the-gilder)
+- [CHAPTER 115. The Pequod Meets The Bachelor](#chapter-115-the-pequod-meets-the-bachelor)
+- [CHAPTER 116. The Dying Whale](#chapter-116-the-dying-whale)
+- [CHAPTER 117. The Whale Watch](#chapter-117-the-whale-watch)
+- [CHAPTER 118. The Quadrant](#chapter-118-the-quadrant)
+- [CHAPTER 119. The Candles](#chapter-119-the-candles)
+- [CHAPTER 120. The Deck Towards the End of the First Night Watch](#chapter-120-the-deck-towards-the-end-of-the-first-night-watch)
+- [CHAPTER 121. Midnight.—The Forecastle Bulwarks](#chapter-121-midnight—the-forecastle-bulwarks)
+- [CHAPTER 122. Midnight Aloft.—Thunder and Lightning](#chapter-122-midnight-aloft—thunder-and-lightning)
+- [CHAPTER 123. The Musket](#chapter-123-the-musket)
+- [CHAPTER 124. The Needle](#chapter-124-the-needle)
+- [CHAPTER 125. The Log and Line](#chapter-125-the-log-and-line)
+- [CHAPTER 126. The Life-Buoy](#chapter-126-the-life-buoy)
+- [CHAPTER 127. The Deck](#chapter-127-the-deck)
+- [CHAPTER 128. The Pequod Meets The Rachel](#chapter-128-the-pequod-meets-the-rachel)
+- [CHAPTER 129. The Cabin](#chapter-129-the-cabin)
+- [CHAPTER 130. The Hat](#chapter-130-the-hat)
+- [CHAPTER 131. The Pequod Meets The Delight](#chapter-131-the-pequod-meets-the-delight)
+- [CHAPTER 132. The Symphony](#chapter-132-the-symphony)
+- [CHAPTER 133. The Chase—First Day](#chapter-133-the-chase—first-day)
+- [CHAPTER 134. The Chase—Second Day](#chapter-134-the-chase—second-day)
+- [CHAPTER 135. The Chase.—Third Day](#chapter-135-the-chase—third-day)
+- [Epilogue](#epilogue)
 
 
 
