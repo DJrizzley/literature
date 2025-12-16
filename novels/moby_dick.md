@@ -25,9 +25,9 @@ Credits: Daniel Lazarus, Jonesey, and David Widger
 
 
 
- # MOBY-DICK;
+ # MOBY-DICK
 
-## or, THE WHALE.
+## or, THE WHALE
 
 By Herman Melville
 
